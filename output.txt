@@ -1,0 +1,652 @@
+DONALD TRUMP:
+Collected all 30626 tweets.
+Truncated tweet list to 30626 tweets.
+Generated HMM with order 2
+Generating 10 Trump tweets:
+1: The great champions have all come under Obama. Over $5/gallon now in Charlotte? Did he become my new fragrance; first (cont)
+2: Congrats @NBCInvestigates on revealing that Obama saluted a Marine with a Crooked Hillary Clinton- if he is and how OPEC is inflating gas prices.
+3: When will our country to follow. Ask the Democrat Debate live on all television for “top brand impact is what makes a great
+4: I will work hard and never let you down. Make America Great Again! Vote Trump and "Double Trump" plus enter Golden Lick Race Sweepstakes:
+5: Bullshit-Pop gave me such wonderful reviews for my Obama announcement. wonderful reviews for my campaign. Done deal!
+6: The economy can't survive another 4 years ago when he says his disruptors aren't told to lie about Bergdahl? Obama and Bernanke destroying the Middle
+7: Oh the wonders of the Week” interview with @parademagazine from the Bahamas - Sunday, 8/23 @ 9pm (EST) on NBC:
+8: Now the Chinese will ‘overtake America’ in 2016 ... Now ... 2016 ... Chinese in order to stay on offense. Make Obama's terrible record the issue.
+9: Departing Golden, CO. for Arizona now - after an unbelievable day. The crowds were amazing. Will be participating in a deal done is truly a terrible debate
+10: THE APPRENTICE. - 10 minutes. HAVE A GREAT ECONOMY” via @BreitbartVideo - minutes. ECONOMY” HAVE APPRENTICE. 10 HAVE APPRENTICE. minutes. THE - ECONOMY”
+
+
+SHERIFF CLARKE:
+Collected all 7726 tweets.
+Generated HMM with order 2
+Generating 10 Clarke tweets:
+1: Employees of @nytimes @washingtonpost says about a culture war being waged against the clock and sky will fall rhetoric is not the media asking Repub
+2: It is official! Exciting opportunity, please join me on hearing that many black males who are backing Clinton.
+3: Why spending in lame duck Prez will not be a career politician" Can U help? help? spending a Can Can Can help? U lame career help? a Why U be spending a spending
+4: Huh? Obama administration swears that the $400 million smuggled to Iran was not ransom money. Iran Iran Iran ransom money.
+5: Pretty clear and straight forward. Seal the border, enforce the law abiding gun owners or background checks.
+6: Finally. How long before lib cultural purging demands that the sense of urgency about the War on Poverty.
+7: Budget deal was a monster. a a monster. monster. a a a a was deal monster. deal Budget a Budget a monster.
+8: Amazing that the enemy is Trump should hang heads in shame and apologize. How does this Rubio calls Trump immature. It's an insult to @realDonaldTrump
+9: If Obama believes that someone forget to tell cops to keep bombs off planes. A call of a thousand cuts. Rahm Emanuel says he'll fight to the federal
+10: Overwhelming majority of arrests by police of Black folks can be rescued from it's deadly crime wave. Here is what this inane policy of sentencing reform.
+
+
+Generating training dataset...
+Generating test dataset...
+Tweet: Spent Saturday afternoon decompressing with my horse. My Rotty Zoo-kess would disagree. I said there is such a thing.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: I am counting on your Forbes Five-Star Hotel Award in 2009 employer-provided premiums cost $13,375. Today they are trying to live life thru
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Thank you for the Iraq war? And now with Obama’s lack of transparency. I don't believe it $$$$! the Thank of Thank transparency. Iraq I Thank Thank
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Interv on CNN featuring myself and academic Mark Lamont Hill. Entertaining exchange. academic featuring Mark academic Hill. exchange. exchange.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: I thought people weren’t celebrating? They were cheering all over, pouring into US &amp; drugrunners cross our border.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Again, I want to miss this one! to one! one! to one! one! to one! to one! one! to one! to one! one! want to hear from him.
+Actual author: CLARKE
+Predicted author: TRUMP
+Tweet: Dems call this stopping the Obama administration. It's about a new voting block-prison inmates. It's a drop the mic moment…
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: It is destroying Medicare. destroying destroying is It is time to do a great honor - they have Lance Armstrong 100 million views on a Special
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: I'll be on On The Record with Greta Van Susteren @gretawire tonight on @foxnews and @CNBC draw the highest in U.S.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Apparently to people like Trump. Knowing about the 1st black POTUS. What a joke. He's still looking for attention. His ride is over.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Everyone is saying I won the ridiculous @JebBush ad about me always quote non-existent unnamed sources. Very dishonest!
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: World Trade Center Towers once stood. Reminder of the Senate and White House after an 8 year absence -
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: .@realDonaldTrump talking about "oppression" while working for a reason.Their colleague hasn't been charged. Will someone stand up to 7:20 AM EST sigh!
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Intrev yesterday with Neil Cavuto on police officers to reasonably use enough force to OVERCOME resistance, not match it.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: When Trump does this writer "get it" when the talk below the surface was tremorous? Nothing. Nothing. does surface When talk does Nothing. does
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: .@FoxBusiness @realDonaldTrump. Folks don't WATCH the polls, Trump kept working. the @realDonaldTrump. Trump @realDonaldTrump. @realDonaldTrump. polls, polls,
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Wow, @CNN got caught fixing their "focus group" in order to get your hotelier boyfriend back—a lost cause—he can do it.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Letter to @Univision - Re: @TrumpDoral @Univision to to post the great people of Buffalo should be proud of
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Why in part Republicans cannot attract young voters. Stodgies. The "old bulls" probably still wear wingtip shoes too.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: .@lancearmstrong teammate is angry that the judge in the dog.” - Dwight D. Eisenhower D. the angry is Dwight Dwight the - D. in that he selling us out.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: When a black criminal. On @oreillyfactor tonight tonight When tonight black When a dissenting view is not trying to get your binky and nap.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Holder says cops need to learn how to punish for crime. In Milwaukee WI. 80% of all this stupid reason -
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Hope soon to be dismantled, all of 30 seconds of coverage on NBC news this morning. Police week continues.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: My @FoxNews interview discussing why A-Rod should do the right place, then stand firm.” - Abraham Lincoln
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: New poll by same people as last discredited story on Iran They are hungry, motivated and eager to learn.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: “@OMAROSA is a total disaster. We can get our credit outlook to DC. Support her campaign chairman:
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Just announced that all there is? We need our leaders are so advantageous then why is Obama playing basketball today? That is quite different from being
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Mentoring young kids in the US Capitol this morning. No more police protection. young Mentoring Mentoring in protection. No the the manifestation of
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Why didn’t Gates resign if he wins White House” didn’t resign wins he won’t have a clue. We need to pressure OPEC to lower taxes--need I say we cannot
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Benghazi. Obama lied. Our people died. Our people died. lied. people lied. died. lied. died. died. people died.
+Actual author: TRUMP
+Predicted author: CLARKE
+Tweet: Hear me on his marriage over the years. Great insult to Ohio. I will be to eliminate, as far as you are, can learn from the
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: #CrookedHillary gives Obama an “A” for an interview with Chris Wallace. Enjoy! interview “A” interview interview gives for interview with Michael Patrick
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Why do our leaders backs, they laugh. They could (cont) our backs, our could they lose to Obama?!
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Loretta Lynch refuses to talk police instead of cops. We're not there yet. We bitch refuses police Loretta of of police are the same
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: These "principled conservatives" are also busy cutting Trumps tires thereby helping Mrs. Bill Clinton
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Blacks make up 13% of pop. Susp in KY police shooting. Blacks pop. in of Obama who has counted @realDonaldTrump out since he got in his pinky than the
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: I wish the 23 Million" unemployed who need economic growth - seen below. growth who I got a gift. #CelebApprentice
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: “All the things she will be re-running "Objectified: Donald Trump," the ratings of The Catholic League, for the Conservative movement and our
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: This sums it up when trying to help keep kids from failing public schools. Will be sold in Philly this week was about a @realDonaldTrump cabinet
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: We will keep the crown-Hypocrite crown-Hypocrite keep the atrium of Tump Tower for The United States Congress. Guilty - cannot run. Rigged
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: The US Constitution says 35 YOA, 14 years a resident in U.S., natural born citizen natural a resident in U.S., natural born citizen
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Truly weird Senator Rand Paul has been driven out of race race of of of Paul Ryan. We will make a great
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: If Stop &amp; Frisk keeps streets &amp; subways safe.Stand strong Ray Kelly is strongly considering running for mayor.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: GOP party elites and RINOS like Romney aka Mr. 47%er. like GOP elites and Hollywood elites are not showing themselves to be
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: My choices for first time that can't be fixed and needs to be fired. New podcast is up! Don't miss it!
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Celebrate 2013 @TrumpSoHo with downtown's nicest #NYE party. Get your momentum will stop.” – Think Like a Billionaire
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Obama is releasing non violent drug offenders. Judge should have been the message preached by Moms featured at the national debt all by himself.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: My wife @MELANIATRUMP will be live-tweeting the V.P. pick said this is not a talented person who never gives up. That's why he works at @TrumpTowerNY
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: .@pennjillette and @dennisrodman as PM’s- I’m proud of you! #TBT of PM’s- .@pennjillette proud I’m of proud of
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: ..Ryan died on a great choice for US Open are way over the ridiculous debate terms that @CNBC is asking for extra time (and no criteria) in order to build
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Just left Ireland, property will be born (unlikely) property Ireland, will property left property property property property Just property
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: The knee-jerk reaction to Keith Scott shooting video and Dr. GS Potter statement, "Policing isn't a very dangerous job at all."
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Not buying the lawyers excuse that they stay the course. lawyers that buying buying lawyers excuse that they are serving in? Would pols let THEIR
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: The most irrelevant member of Congress over Fast and Furious and that was to mask over a colossal intelligence failure and grow up.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: All-Star Celebrity @ApprenticeNBC is not "freedom of the Free World. We need new leadership FAST! We Free new need new leadership FAST!
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: When I see tee shirts saying "I blame Steve Harvey," is typical Hollywood racism. When in d…
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Of course Obama is releasing non violent offender locked up in the general. ONE TEAM, ONE GOAL.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: YES!! Obama and AG Loretta Lynch say police need to do to head this off when the GOP in Congr are softening sentences for drug dealing during this "victimless"
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Attorney General Loretta Lynch refuses to condemn and shun idiots like this. The look on his behalf The shun like Lynch The Lynch The this. shun like Lynch
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Mrs. Bill Clinton will hurt all law abiding person and no risk Libs tell us. risk tell and all you faux protestors feigning outrage can be rescued
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: “I don’t see the Great Dunes of Scotland is spectacular--the sea, the sand dunes, the rolling bluffs--we walked the course will be better than
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: More timely accurate preventive intelligence ops. ops. intelligence More intelligence More More ops. More timely accurate preventive intelligence
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: We are definitely slouching toward Gomorrah. We definitely slouching toward Gomorrah. slouching slouching slouching definitely We toward
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Heading over to@Kelly and Michael Douglas look great! great! and great! JOBS! JOBS! over great! Douglas Douglas great! over JOBS! great! Michael
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: That is what hate and violence in NYC? NYC? and hate what in and around Galilee. is Galilee. and what he can call me this all night long.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Will be interviewed on @greta tonight at 8. Totally vicious and skilled investor who was arrested for sexual assault! It just is. When the Super
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Lying #Ted Cruz just (on election day) came out magnificently. My son, @EricTrump will be proud of
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Wow! Honored to be strengthening all important military components - not possible! be not all of our many problems.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Alex Rodriguez should substantially reduce his salary from the Virginia coal industry- thank you!
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Obama Care Enjoy! Enjoy! Care Care Enjoy! Obama Obama Obama Care being fully implemented in less than 2 million new jobs a month.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: What will happen with anyone else. What with anyone who cares about this country. If we do that like me. We will Make America Great
+Actual author: TRUMP
+Predicted author: CLARKE
+Tweet: Obama is against us in John 8 verse 7. is us John John us us is a horribly destructive social problem. So is being briefed.
+These people are incapable
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: It all begins today! I will be a great day, especially when talking about the massive turnout tonight- Cleveland, Ohio! Get out &amp; VOTE #TrumpPence16.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: A sad day for Newtown, CT and our leaders are so one sided, almost all of our great law enforcement
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Will be Better without Joy Behar (Video)” via @gatewaypundit Better Behar Will Joy Will Behar Better Behar Will Will Will Behar Will Behar Behar
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Funny how some criminologists dismiss relationship to soft on crime with his views or not, I do NOT need to take absolute control one has to take
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Media should stop Hollywood-ing her death. She has been served. Cops are NOT racist. Black crooks are
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Brian Williams was not true to himself and his strength, I don't get @billmaher and his apology-zero control over himself!
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: What would your reaction to rush "retraining" police will result in an "evidence based program", kills.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Via @WSJ: “A New Direction For America” by @MittRomney is a bit far fetched fetched is America” America” bit America” a by far of any large city.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Murder of black citizens in the US today is that WE THE PEOPLE. It is pitchfork &amp; torches time in America.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: In order to mask the big news with my father- mask mask mask mask my mask my order mask order mask In father- to mask the big announcement
+Actual author: TRUMP
+Predicted author: CLARKE
+Tweet: Dumb-ocrat party sees me as a campaign issue. Don't fall for the firing process to begin. Seriously? sees firing begin. Don't to Don't sees party for a moment.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: The White House is continuing his quest because he couldn't get elected in Kentucky--- a great
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Silence from Obama. He's busy transforming the police. Really? the the manifestation of failed liberal government policies.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Be sure to enjoy the weekend. Really tough but fair and highly respected in all demos during the third
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: People like doing deals with Congress! doing like Congress! with doing Congress! Congress! Congress! like Congress! like Congress! Congress!
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Major story that I am not just you, I own Turnberry, in Scotland. We created this ad and the U.S. will look very much in the world
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: The failing @nytimes reporters don't even operate. 
+They (cont) The @nytimes sent a 10-wheeler filled with falsehoods and inaccuracies. Publisher
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: These lying Dems sure paid attention when a black man. a These attention a Dems black black paid black attention when a death sentence is handed down
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Dishonest media is able to do with timing. You have to be announced. Happy Easter and/or Holiday to all.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Hillary Clinton's America - great people! Will be there soon! people! soon! great Hillary America people! people! Clinton's be - people! soon! Hillary
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Will be on the low-life leakers! They will soon be transformed into an iconic destination, Trump Int'l Hotel &amp; Tower, Toronto. #1 in the
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Oh-oh now our nice guy mayor is throwing the hammer down! The dreaded gun hotline! Criminals have to wait. First things first.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: If you can, with what you think should win? you you think of Gary's definition of f-u-n? of with of you
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Mrs. Bill Clinton says that people join gangs for a treat! gangs Mrs. Mrs. gangs Mrs. gangs says gangs says gangs that Bill says Clinton gangs people
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: I hope that Pres. @BarackObama does a show Catholics should boycott @Macys. They are desperate
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Good--@FLGovScott is suing to suppress the the Donald Trump talks economy with Republicans &amp; Democrats think Eric Schneiderman’s witch hunt against
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Congrats and check out my friend Emily Miller at CPAC. 
+A friend/supporter of the community they serve. Baltimore PD officer acquitted in Freddie
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: $300 billion unaccounted for in fed gov Pell grants for college, dumb-down education in the air during the RNC Convention. Ladies and Gentlemen,
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Segregation by any other country. Let me point out that conservatives are unified in one thing, themselves
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Big Media @abcdigital, @GuardianUS and @CNN called. Should be as eager to see here @washingtonpost @nytimes for you have to demonstrate a need
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: The threat from radical Islamic terror attack today in Nashville. Many friends will be if @BarackObama stays in DC, taxpayers will pay for their
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Mrs. Bill Clinton kept referring to during her failed campaign for black votes for Mrs. Bill Clinton's tax returns.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Interesting that Roberts said it for years. TIME FOR A STRONG AMERICA endorsed me. Such a wonderful charitable cause.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: The answer to this is tacit approval of the American voter. 2016 will change it to hide his ambition. He is morally bankrupt.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: GOP is getting their ass kicked. ass their their ass kicked. GOP GOP GOP getting ass GOP is to be
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Watch Celebrity Apprentice, Sunday night at 9 PM EST will be amazing tomorrow night! VT Police say first come, first serve. Arrive early!
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Our government is corrupt. Only @realDonaldTrump is under attack choosing instead to pile on. instead attack to @realDonaldTrump
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: With Bill Clinton's med records is problematic cuz this corrupt liar will delete all those except ones reporting a yoga injury
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: I turned the so called smart gun technology. People must stop thinking there's a tech fix to everything.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Oscar Pistorious case is a country struggling. Our work is to play the game. And then you will never again host the Miss USA Tara Conner will not be ignoring!
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Just to show how totally dishonest story they did and said (like giving the Keynote Address at The Southern White House.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: I believe that @BarackObama did not give Obama the proper team! team! team! believe team! not Obama team! not believe Obama just fired the gun laws,
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: As a presidential primary endorsement—me! Thank you. you. Thank As you. As you. primary presidential Thank endorsement—me! As primary
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: This is good! This This is what I fear about cop bashing. It is the kind of steps that Dems are not protest and should be to big to apologize
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Great @nytimes story about me or my wealth. A waste! @nytimes @nytimes @nytimes or or my campaign but HE'S DEMONSTRATED A PENCHANT FOR SEXISM, so inappropriate!
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: The @EricTrumpFDN is doing amazing work helping the American people! #Trump2016
+Watch: people! @EricTrumpFDN doing helping doing @EricTrumpFDN The
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Oh-oh now our nice guy mayor is throwing the hammer down! The dreaded gun hotline! Criminals have to turn it off, turn to The People's Sheriff
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: I knew Donald Trump will make a recommendation. It was raw race politics. Cites one elementary "study" that resembles propaganda more that
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Under Obama, Holder &amp; Lynch, cops were white, 26% were black. Black LIES Matter is the goal. Obama, Under Obama, Holder and Al Sharpton able to
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Do you think had the biggest, ugliest sign Chicago has won many awards &amp; accolades, as has Sixteen, its signature restaurant.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Column says, last week, GOP left town for a treat! left Column Column treat! a town town a town a a week, a town town town a treat!
+Actual author: CLARKE
+Predicted author: TRUMP
+Tweet: To aspiring entrepreneurs: Be tenacious. Once you've decided on your calendar: The Celebrity Apprentice...
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: ... It is so dishonest? is so dishonest. Their hit piece on China in unprecedented act. hit so so is having a black president, the racial divide
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: A wonderful guy- who has put a no-fly zone in Syria visiting with the reporter- Syria Syria the day checking work just completed by contractors. This
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: My advice to GOP is doing a hell of a fa… fa… is to do nothing at all. to to a reality that police need to condemn underclass behavior.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Henry lives 29 years longer than his 2 victims, one was 5 yrs old. We call this data xenophobic to discredit it.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: The media is to be true? El Chapo comes to Miami on March 6th – 10th. Join me--I will be the best moves I ever even used.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: It was my pleasure to make a website for ZERO dollars! for It website It ZERO It pleasure ZERO It for It pleasure for for It for a moral &amp; religious
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: MAKE AMERICA GREAT AGAIN!… AGAIN!… AGAIN!… AGAIN!… MAKE AGAIN!… AGAIN!… MAKE AGAIN!… AGAIN!… AGAIN!… MAKE MAKE AGAIN!… AGAIN!… AMERICA AMERICA
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Music to a military vet during CPAC to a criminal's ear. a a a a ear. to a Gun via sharethis As Mrs. Bill Clinton's camp talks about an audio reco…
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Listen to new heights looks like this. The look on his new spot KRLA radio. on on on like sentencing reform
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: A truly sad day for me when I finish! sad for sad finish! when for for finish! sad day for me on the neck of the Union address. Ratings will be better
+Actual author: CLARKE
+Predicted author: TRUMP
+Tweet: This eliminates left's excuse about prison overcrowding. AG Session just found their next Courage Award winner. Lamar Odom. Then they explode.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Cruz is correct. Trying to intimidate and harass me into stopping the Obama counter-strategy for global terror is? Simply ignoring the threat
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Now he is spending fortunes at airports were caused by nuclear weapons is a hoax. Totally dishonest.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: What a night! 10,000 amazing 
+supporters! #Trump2016 
+#MakeAmericaGreatAgain 
+
+Omaha,
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Obama will use this as our take down CNN who tried to disarm a police officer. Get it right. Call and let DOJ run the Senate. Contact @SenTomCotton
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Let's see how the American people in trouble. how American American Let's in in in how how American American in people in the coffin of this
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: {\rtf1\ansi\ansicpg1252
+{\fonttbl}
+{\colortbl;\red255\green255\blue255;}
+} Kids do not respect the lawfully arrived at peaceful transition of power thru elections.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Race obsessed Susan Rice, Loretta Lynch say police need to take absolute control one has to send to Washington? Wow.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: My #TrumpTuesday @SquawkCNBC interview discussing the 2012 election, OPEC ripping us off at $105! us discussing ripping $105! ripping election, discussing
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Former New Orleans Mayor Ray Nagin and Baltimore Mayor calls criticism of her hole to attack me.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: .@bobvanderplaats is a good reason and the rest to go to sleep? sleep? sleep? is rest good sleep? rest a rest sleep? sleep? good sleep? reason to "tweet." Sadly,
+Actual author: TRUMP
+Predicted author: CLARKE
+Tweet: Congressman John Lewis said about @BarackObama is such a high school and college records? school records? college school said such nasty things about
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Thank you to my friend Whitney Houston's funeral--absolutely amazing! you you to all of our country
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: I hope I get closer. Just had a positive impact on the debt limit next year he loses -- "Watch the fine details in every deal" -- The Art of The Deal
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Typical. DC is complicit in the commission of a failing school and into a positive. She's sick Typical. Typical. school She's the She's sick
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: For those fanning the flames of racial discord created by Progressives. created created discord by For those wondering if the cop was gay?
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: With the $635 million dollar bonuses with our famous world-class amenities to LA's top public course
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: The US Military Academy Has A Campus Unlike Any In The World via @BI_Defense
+Would be a skit of this
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: This stuff is not going away. They're like carpenter ants. You only temporarily get rid of Obama.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Thank you Alex! Thank you New Hampshire! 
+#FITN #NHPrimary #VoteTrumpNH 
+Voting questions?
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Via @Newsmax_Media: “Trump Iowa Visit Raises 2016 Speculation” “Trump Visit 2016 Via Visit Visit 2016 2016 “Trump Iowa Visit Raises 2016 Speculation”
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Remember when the GOP led Senate. Very few care about blacks. I was right. few few right. I Senate. Senate. when the Officer defended himself.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: My shirts, ties and shirts @Macy's-they are amazing people doing something right if @cher, sadly rated “the 4th ugliest celebrity” according
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Boehner: "We worked hard to figure out ways to bring a new culture of policing". I'm calling for this moment, not someone fueling the racial divide/strife
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Firing Bret was a racist! was was Firing Firing Firing was racist! a Bret Firing racist! Firing Firing Firing Firing racist! Firing Bret was a lone
+Actual author: TRUMP
+Predicted author: CLARKE
+Tweet: I'll say what @politico won't here. @realDonaldTrump outhustled Clinton. She believed the polls, get people TO the polls.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Via @TIME by @ZekeJMiller: “Trump Talks Politics at His Virginia Winery” Talks Virginia Talks by by by @TIME Talks @ZekeJMiller: by by @TIME by
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Story points out the guard on standby early. They aren't Minutemen. Need time to realize and accept that @realDonaldTrump is the plan?
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Why I do is bitch. Pi… is is Pi… Pi… Pi… bitch. do Why Pi… bitch. bitch. Pi… do Pi… bitch. is do NOT matter.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: The answer is NO! They were racist then and… were were were and… were were were were were were were were were were were The were were were were were were
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Big Media is more interested in posting as op-ed. Why we conservatives are growing antsy over the Brazile leaked questions. Viewers who watched
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: .@TeresaEdelglass @ABC If he wasn't in the court to end this discrimination. The playing field so to speak, has been vindicated. @UNH and Dr. Steven Kaplan offers
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: .@TrumpDoral offers multiple award winning architectural design, @TrumpChicago’s condominiums are world-class
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Thank you - New Hampshire!
+#MakeAmericaGreatAgain Thank you to Ford for scrapping a new goal: raise $4 million from our country, have to do
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Excellent story on World News Tonight.Gang members &amp; criminals members Excellent members on break from Obama’s $4M vacation are more likely to
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Why I arrested a hostile airline passenger and the Dems, vote @realDonaldTrump so we can begin healing the nation
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Via HT Politics HT HT HT Via Politics Politics Via Politics Via HT Politics Via Via Via Politics Via Via Via Politics Politics Via Politics HT
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Why I call these, social engineering experiment like those being performed in criminal justice. I don't care how much the totalitarian bigoted
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Re Negotiation: Think about what you're doing. Know exactly what you want, it is just what NYC needs, a pervert Mayor.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Do libs care about affordable childcare and jobs, not weari… affordable and affordable not about Dems or Republicans in the conversation.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: I always said that a good attitude and do them.” Anonymous said Anonymous and attitude Anonymous said I wear a "wig". Some may not be critical of
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Join me tomorrow! #Trump2016 #MakeAmericaGreatAgain #ECONOMY - VIDEO: #Trump2016 Join #Trump2016 #ECONOMY #MakeAmericaGreatAgain Join
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Booker T Washington preached racial reconciliation post slavery. Obama plays divisive race politics 150 years later.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: The Northeastern U prof on the hell is CNBC playing a game of Russian Roulette with a false narrative by the family is understandable. Everybody else get
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: President Obama for associating with bigot Al Shatpton. Demand that he has no domestic intelligence operations is to move cautiously. WE VOTED FOR THEM
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Just upgraded my NRA membership from Life Member to Endowment Member. I encourage members to upgrade one level! #NRA
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: The phony story in politics. This will end in a landslide! landslide! landslide! landslide! in landslide! story landslide! will in This in politics.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: The great boxing promoter, Don King, just endorsed Crooked Hillary. He wants four more years of incompetent leadership.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Going where? One last joyride on taxpayers dime. Will global warming junk science down our throats
+Actual author: CLARKE
+Predicted author: TRUMP
+Tweet: Left with help of Dems polled want Trump to follow THEIR model for running for office on eliminating Terry stops by NYPD was not unexpected. He can
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Tensions mount between NYC mayor, police union in US history to be crushed for the victims? between for for NYC history US between victims? to history
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: This is where the Good Lord split ya. Lord ya. ya. Lord ya. where split ya. This ya. Lord ya. ya. ya. split split This This This Lord ya. ya. ya. ya.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: To all lefties, this is stupid. Only lawful gun owners and letting those who did this.… those and gun control.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: According to CDC in 2012: 140 Blacks killed by black males locked up in prison than any other country. Let me point out that the federal gov in local policing.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Obama's do as I do moment. I do and when. He answers to Obama. Please join the NRA. I when. the answers the and do not matter when it comes to crime
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: At Wisconsin Gov Scott Walker to sign a bill today in DC. Overwhelming white women. Black and that video that caused Benghazi
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Via @NYDailyNews: "Joan Rivers' last work for @StJude @EricTrumpFdn Rivers' for Rivers' "Joan for Rivers' @NYDailyNews: @EricTrumpFdn Rivers' Rivers'
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Sounds like the "old west", like the JV ISIS threat is all wet. Afraid to say after Paris attacks. Media only believes this to them. I do NOT matter.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: ... at St. Jude Children’s Research Hospital. I am now in Colorado on Friday but that China was caught bowing to the
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Watch my @oreillyfactor appearance from this week's #CelebApprentice... this this appearance this morning
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: I hope I get inducted into the legendary @BarbaraJWalters interviews my family growing up- I'm on Bill O'Reilly's show tonight @ 10pE.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: If Mr. "I have a bigger story than the entire teaching profession because of her mouth doesn't pass the smell test.
+Actual author: CLARKE
+Predicted author: CLARKE
+Tweet: Poll numbers way up in courts for years, Iraq will be interviewed on @foxandfriends with the American people.
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Kellyanne Conway went to @CakeBossBuddy and sent me an award, your very honest commentary. One thing, we do that through TheTrumpNetwork
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Make sure all your support - on the issues of the @nytimes story about a massive wall &amp; deduct costs from Mexican foreign aid!
+Actual author: TRUMP
+Predicted author: TRUMP
+Tweet: Via @Newsmax_Media: "Trump: I'd Be Better 'Meet the Press' Host Than 'Moron' Chuck Todd" 'Moron' Press' Press' Than Todd" Todd" 'Moron' Host Than 'Moron' Chuck Todd"
+Actual author: TRUMP
+Predicted author: TRUMP
+
+Overall accuracy: 0.955
