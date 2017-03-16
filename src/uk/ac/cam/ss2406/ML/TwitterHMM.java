@@ -28,13 +28,9 @@ public class TwitterHMM {
         double rt = 0.0;
 
         int charcount = 0;
-        boolean found = false;
-        String key_found = null;
         for(Map.Entry<String, Double> entry : initial_probs.entrySet()){
             rt += entry.getValue();
             if(n <= rt){
-                found = true;
-                key_found = entry.getKey();
                 words.addAll(Arrays.asList(entry.getKey().split(" ")));
                 break;
             }
@@ -44,18 +40,10 @@ public class TwitterHMM {
         while(tweeting){
             //determine whether the tweet should end
             n = Math.random();
-            List<String> kwords = null;
-            try {
-                kwords = words.subList(words.size() - order, words.size());
-            }catch(Exception e){
-                System.out.println("");
-            }
-            String wordstr = null;
-            try {
-                wordstr = String.join(" ", kwords);
-            }catch(Exception e){
-                System.out.println("");
-            }
+            List<String> kwords = words.subList(words.size() - order, words.size());
+
+            String wordstr = String.join(" ", kwords);
+
             double prob = final_probs.getOrDefault(wordstr, 0.0);
 
             //Naive method to attempt to end tweets in time
@@ -77,13 +65,7 @@ public class TwitterHMM {
                 }else{
                     //No transitions from wordstr in training data. Smoothing would solve this, but we didn't smooth.
                     //So pick a word randomly. (Issue: this can just lead to a chain of no transition cases).
-                    int index = 0;
-                    try {
-                        index = new Random().nextInt(words.size());
-                    }catch(Exception e){
-                        System.out.println(key_found);
-                        System.out.println("wtf");
-                    }
+                    int index = new Random().nextInt(words.size());
                     charcount += words.get(index).length();
                     words.add(words.get(index));
                 }
@@ -130,9 +112,6 @@ public class TwitterHMM {
             if(index < words.size()){
                 List<String> kwords = words.subList(0, index);
                 String wordstr = String.join(" ",kwords);
-                if(wordstr.equals(" ")){
-                    System.out.println("wtf??");
-                }
                 initial_probs.putIfAbsent(wordstr, 0.0);
                 initial_probs.put(wordstr, initial_probs.get(wordstr)+1.0);
             }else{
